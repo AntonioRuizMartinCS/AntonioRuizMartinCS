@@ -13,7 +13,7 @@ Passionate computer science student deeply engaged in the realms of Object-Orien
 ### Skills:
 
 
-- <span style="background-color: #3498db; color: #ffffff; padding: 5px 10px; border-radius: 3px;">Java</span>
+<span style="background-color: #3498db; color: #ffffff; padding: 5px 10px; border-radius: 3px;">Java</span>
 - <span style="background-color: #2ecc71; color: #ffffff; padding: 5px 10px; border-radius: 3px;">JavaScript</span>
 - <span style="background-color: #e74c3c; color: #ffffff; padding: 5px 10px; border-radius: 3px;">Python</span>
 - <span style="background-color: #f39c12; color: #ffffff; padding: 5px 10px; border-radius: 3px;">HTML</span>
