@@ -1,4 +1,4 @@
-![Header](./github-header-image)
+![Header](./github-header-image.png)
 
 <!--
 **AntonioRuizMartinCS/AntonioRuizMartinCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
