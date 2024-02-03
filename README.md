@@ -13,14 +13,15 @@ Passionate computer science student deeply engaged in the realms of Object-Orien
 ### Skills:
 
 
-<span style="background-color: #3498db; color: #ffffff; padding: 5px 10px; border-radius: 3px;">Java</span>
-- <span style="background-color: #2ecc71; color: #ffffff; padding: 5px 10px; border-radius: 3px;">JavaScript</span>
-- <span style="background-color: #e74c3c; color: #ffffff; padding: 5px 10px; border-radius: 3px;">Python</span>
-- <span style="background-color: #f39c12; color: #ffffff; padding: 5px 10px; border-radius: 3px;">HTML</span>
-- <span style="background-color: #9b59b6; color: #ffffff; padding: 5px 10px; border-radius: 3px;">CSS</span>
-- <span style="background-color: #27ae60; color: #ffffff; padding: 5px 10px; border-radius: 3px;">Kotlin</span>
-- <span style="background-color: #e74c3c; color: #ffffff; padding: 5px 10px; border-radius: 3px;">Swift</span>
-- <span style="background-color: #34495e; color: #ffffff; padding: 5px 10px; border-radius: 3px;">SQL</span>
-- <span style="background-color: #3498db; color: #ffffff; padding: 5px 10px; border-radius: 3px;">C++</span>
+
+![Java](https://img.shields.io/badge/Java-3498db?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-2ecc71?style=flat-square&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-e74c3c?style=flat-square&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-f39c12?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-9b59b6?style=flat-square&logo=css3&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-27ae60?style=flat-square&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-e74c3c?style=flat-square&logo=swift&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-34495e?style=flat-square&logo=sql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-3498db?style=flat-square&logo=cplusplus&logoColor=white)
 
 
