@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 
 
-Passionate computer science student deeply engaged in the realms of Object-Oriented Programming and mobile app development. I thrive on crafting efficient, user-centric solutions and am eager to collaborate on innovative projects. Always learning, I welcome challenges and am open to sharing insights about coding, OOP, and the dynamic world of tech. Let's create something extraordinary! 🔧📱💻
+Passionate computer science student deeply engaged in the realms of Object-Oriented Programming and mobile app development. I thrive on crafting efficient, user-centric solutions and am eager to collaborate on innovative projects. Let's create something extraordinary! 🔧📱💻
 
 - 🔭 I'm currently immersed in the dynamic world of Object-Oriented Programming and mobile application development for my CS Degree dissertation project.
 - 🌱 Currently learning and honing my skills to stay updated with the latest technologies and trends in the ever-evolving tech landscape.
